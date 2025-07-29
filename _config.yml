@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hui Wang / Postdoctoral Researcher"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "whuii/whuii.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hui Wang"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "A Postdoctoral Researcher"
+  bio              : ""
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
