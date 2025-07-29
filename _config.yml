@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Postdoctoral Researcher"
+title                    : "AI & Machine Learning | Researcher & Innovator"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
