@@ -10,7 +10,7 @@ paperurl: 'http://whuii.github.io/files/iop-aaai2025.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Pareto Front Learning (PFL) has been one of the effective means to resolve multi-objective optimization problems
+Abstract: Pareto Front Learning (PFL) has been one of the effective means to resolve multi-objective optimization problems
 through exploring all optimal solutions to learn the entire Pareto front. Pareto Hypernetwork (PHN) is a new promising 
 way to generate the sequence of Pareto-optimal solutions that can be further used as potential solutions to constitute the
 Pareto front. However, the existing PHN-based approaches suffer from two performance issues: They take as inputs human-crafted 
