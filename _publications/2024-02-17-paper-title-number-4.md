@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "IOP: An Idempotent-Like Optimization Method on the Pareto Front of Hypernetwork"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/iop-aaai25
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: Apr. 2025
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://whuii.github.io/files/iop-aaai25.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
