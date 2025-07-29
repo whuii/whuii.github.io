@@ -2,7 +2,7 @@
 title: "IOP: An Idempotent-Like Optimization Method on the Pareto Front of Hypernetwork"
 collection: publications
 category: conferences
-permalink: /publication/iop-aaai2025
+permalink: 
 excerpt: 'This paper is about fixing template issue #693.'
 date: Apr. 2025
 venue: 'GitHub Journal of Bugs'
