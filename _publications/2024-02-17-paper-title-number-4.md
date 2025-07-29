@@ -6,7 +6,7 @@ permalink: /publication/iop-aaai25
 excerpt: 'This paper is about fixing template issue #693.'
 date: Apr. 2025
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://whuii.github.io/files/iop-aaai25.pdf'
+paperurl: 'http://whuii.github.io/files/iop-aaai2025.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
