@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "avatar.png"
   name             : "Hui Wang"
-  pronouns         : # example: "she/her"  
+  pronouns        :  "he/him" # example: "she/her"  
   bio              : "Postdoctoral, Assistant Researcher"
-  location         : "Beijing / China"
+  location         : "Beijing, China"
   employer         : "Beihang University"
   uri              : # URL
   email            : "whui@buaa.edu.cn" 
